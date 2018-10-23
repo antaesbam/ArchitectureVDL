@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dta"
+    id="e56fa00e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0574e656.xml#0574e656"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_9f4175a3.xml#9f4175a3"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GetPrestation (Appel de la liste de prestation pour le paracomptable)"
+    id="530aa0bd-40c0-47de-ae38-06b48dfe6ffc">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4922769c-6ecb-4a73-b8c5-4e87ca5c1173.xml#4922769c-6ecb-4a73-b8c5-4e87ca5c1173"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_7c73b8d4-998e-4f90-99e0-e5bb69e6acc5.xml#7c73b8d4-998e-4f90-99e0-e5bb69e6acc5"/>
+</archimate:FlowRelationship>

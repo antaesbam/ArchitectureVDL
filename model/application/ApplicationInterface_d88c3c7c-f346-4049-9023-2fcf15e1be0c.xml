@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service quittances"
+    id="d88c3c7c-f346-4049-9023-2fcf15e1be0c"
+    documentation="Service pour récupérer des status de facture (payé pas payé)"/>

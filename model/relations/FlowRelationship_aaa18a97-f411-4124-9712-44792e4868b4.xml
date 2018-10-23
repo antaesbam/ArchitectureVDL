@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GetClient (Appel de la référence d'un client valide)"
+    id="aaa18a97-f411-4124-9712-44792e4868b4">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4922769c-6ecb-4a73-b8c5-4e87ca5c1173.xml#4922769c-6ecb-4a73-b8c5-4e87ca5c1173"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_a25fd453-9de7-4f15-9290-e7850f9bce6f.xml#a25fd453-9de7-4f15-9290-e7850f9bce6f"/>
+</archimate:FlowRelationship>

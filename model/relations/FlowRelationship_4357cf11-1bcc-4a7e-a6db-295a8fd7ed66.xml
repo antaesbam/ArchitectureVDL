@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GetStatusFacture (Retour du status de la facture paye-pas payée - partiel)"
+    id="4357cf11-1bcc-4a7e-a6db-295a8fd7ed66">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4922769c-6ecb-4a73-b8c5-4e87ca5c1173.xml#4922769c-6ecb-4a73-b8c5-4e87ca5c1173"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_d88c3c7c-f346-4049-9023-2fcf15e1be0c.xml#d88c3c7c-f346-4049-9023-2fcf15e1be0c"/>
+</archimate:FlowRelationship>

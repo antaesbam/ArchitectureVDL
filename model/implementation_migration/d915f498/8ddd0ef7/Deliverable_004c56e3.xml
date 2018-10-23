@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO20022 Conditions d'acceptation plateau 2"
+    id="004c56e3"
+    documentation="Les paiements OPAE passent par Mammut&#xD;&#xA;Les avis de crédit VEC MT940 passent par Mammut&#xD;&#xA;Un des flux de paiement est passé en XML (pain001)&#xD;&#xA;Un des avis de crédit est passé en XML (camt054)&#xD;&#xA;Le convertisseur mammut est validé sur les fichiers pain001 et sur les fichiers camt054&#xD;&#xA;Le convertisseur mammut est validé sur le flux opae et sur le flux mt940&#xD;&#xA;IPF est décommissionné&#xD;&#xA;"/>

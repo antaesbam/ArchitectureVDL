@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service  facturation"
+    id="544e9cd9-10b5-4b31-8fd9-d41b501747c5"
+    documentation="Intègre l'en tête de facturation et les lignes de facturation (article-prix-tva) et l'en tête de la facture (tiers)&#xD;&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SetFacturation (envoi de l'entête de facturation et des lignes de facturation"
+    id="be0debf7-6b98-4453-981e-302f78e9f942">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4922769c-6ecb-4a73-b8c5-4e87ca5c1173.xml#4922769c-6ecb-4a73-b8c5-4e87ca5c1173"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_544e9cd9-10b5-4b31-8fd9-d41b501747c5.xml#544e9cd9-10b5-4b31-8fd9-d41b501747c5"/>
+</archimate:FlowRelationship>

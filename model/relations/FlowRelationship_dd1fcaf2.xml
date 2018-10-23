@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remontées des amendes d'ordre"
+    id="dd1fcaf2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1349e6ea.xml#1349e6ea"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_47108777.xml#47108777"/>
+</archimate:FlowRelationship>

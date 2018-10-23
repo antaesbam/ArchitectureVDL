@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partage du référentiel fournisseur DBLINK"
+    id="8f061530">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_57798321.xml#57798321"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_7820d311.xml#7820d311"/>
+</archimate:FlowRelationship>

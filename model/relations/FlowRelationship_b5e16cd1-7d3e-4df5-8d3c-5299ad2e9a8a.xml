@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FactureStatusReturn (Status de retour de la facture)"
+    id="b5e16cd1-7d3e-4df5-8d3c-5299ad2e9a8a">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_544e9cd9-10b5-4b31-8fd9-d41b501747c5.xml#544e9cd9-10b5-4b31-8fd9-d41b501747c5"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_4922769c-6ecb-4a73-b8c5-4e87ca5c1173.xml#4922769c-6ecb-4a73-b8c5-4e87ca5c1173"/>
+</archimate:FlowRelationship>

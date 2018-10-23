@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service client "
+    id="a25fd453-9de7-4f15-9290-e7850f9bce6f"
+    documentation="Fournit les données du référentiel client pour pouvoir facturer le tiers&#xD;&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recouvrement"
+    id="4b19b1d7">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_6012b980.xml#6012b980"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_46bfba07.xml#46bfba07"/>
+</archimate:FlowRelationship>

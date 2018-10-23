@@ -1,0 +1,5 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO20022 Arrêt DTA - OPAE Post Finance en Décembre 2017"
+    id="67c5fe08"
+    documentation="Suite à la l’adoption des normes SEPA dans toute l’Europe, le trafic des paiements en Suisse s’adapte à la norme ISO 20022. La diversité des procédures, normes et formats pour les virements, recouvrements directs et justificatifs sera harmonisée afin de faciliter et optimiser le travail.&#xD;&#xA;&#xD;&#xA;Cette norme ISO implique le changement des formats et des messages de communication impactant toutes les applications en connexion avec les banques et notamment Post Finance.&#xD;&#xA;&#xD;&#xA;Le projet ISO 20022 impacte « tous » les processus mettant en jeu du paiement ou de l’encaissement dans la ville. &#xD;&#xA;&#xD;&#xA;Le système entrera en vigueur au niveau de poste finance fin 2017, il n’y aura pas d’échappatoires.&#xD;&#xA;&#xD;&#xA;Ce qui signifie que les solutions doivent être mises en conformité pour l’automne 2017 au plus tard.&#xD;&#xA;&#xD;&#xA;"/>
